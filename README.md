@@ -17,7 +17,7 @@ Easy Sharing: Share articles with friends and family on social media.
 
 ### VERY FIRST SPLASH SCREEN
 
-![IMG-20241028-WA0002](https://github.com/user-attachments/assets/8b966cc5-d6e4-4fe5-9337-fda1a1290253)
+![IMG-20241028-WA0002](https://github.com/user-attachments/assets/8b966cc5-d6e4-4fe5-9337-fda1a1290253) 
 
 
 ### LOGIN PAGE FOR AUTHENTICATION
